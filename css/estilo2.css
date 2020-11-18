@@ -1,18 +1,41 @@
 body
 {
     text-align: right;
-    font-family: Helvetica, sans-serif;
-    background-color: coral;
-    color: greenyellow;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif
+    background-color: snow;
+    color: black;
+    margin: 0;
+    padding: 0;
+    font-size: 15px;
     
+}
+
+#Artelaser
+{
+    background: rgb(89, 0, 131);
+    box-shadow: 2px 13px 34px 1px rgba(0,0,0,0.3);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+    font-size: 35px;
+    font-family:'Helvetica';
+}
+
+#Artelaser #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+    text-align: right;
 }
 #container
 {
-    width: 80%;
+    width: 70%;
     padding: 1em;
     text-align: justify;
     font-family: Helvetica, sans-serif;
-    border: 10px solid rgb(0, 201, 252);
+    border: 0px solid rgb(0, 201, 252);
     margin: 0 auto;
 }
 
