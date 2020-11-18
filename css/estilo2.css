@@ -6,3 +6,17 @@ body
     color: greenyellow;
     
 }
+#container
+{
+    width: 80%;
+    padding: 1em;
+    text-align: justify;
+    font-family: Helvetica, sans-serif;
+    border: 10px solid rgb(0, 201, 252);
+    margin: 0 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
