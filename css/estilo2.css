@@ -2,18 +2,26 @@ body
 {
     text-align: right;
     font-family: Helvetica, sans-serif;
-    background-color: coral;
-    color: greenyellow;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     
 }
 #container
 {
-    width: 80%;
+    width: 70%;
     padding: 1em;
-    text-align: justify;
+    text-align: center;
     font-family: Helvetica, sans-serif;
-    border: 10px solid rgb(0, 201, 252);
     margin: 0 auto;
+}
+#rss
+{
+    width: 80%;
+    text-align: center;
+    color: slateblue;
+    padding: 0em;
+    border: 0 0 0 0;
+
 }
 
 #container h1
