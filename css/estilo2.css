@@ -65,3 +65,14 @@ body
 }
 
 
+#footer
+
+{
+    background: #777;
+    color: aliceblue;
+    text-align: center;
+    font-size: small;
+    padding: 1em;
+    font-family: Helvetica, sans-serif;
+    
+}
