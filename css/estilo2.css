@@ -24,12 +24,19 @@ body
     text-align: left;
     text-shadow: 2px 13px 34px 1px rgba(0,0,0,0.3);
 }
-
+#madrid
+{
+    width: auto;
+    background: rgb(22, 22, 22);
+    border: 8px;
+    border-color: aqua;
+    box-shadow: 2px 13px 34px 1px rgba(0,0,0,0.3);
+}
 #logo
 {
     vertical-align: middle;
     width: 150px;
-    background: rgb(104, 157, 255);
+
 
 }
 #container
